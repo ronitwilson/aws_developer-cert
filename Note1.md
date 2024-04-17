@@ -7,3 +7,4 @@
     * used for throughput intensive workloads, Big Data
     * There is a cold HDD (cheap)
     * Hdd cannot be used for boot 
+* There is provisionsed IOPS if the IOPS is more than 16000 go for provisioned IOPS
