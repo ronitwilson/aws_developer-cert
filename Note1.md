@@ -10,3 +10,10 @@
 * There is provisionsed IOPS if the IOPS is more than 16000 go for provisioned IOPS
 ![image](https://github.com/ronitwilson/aws_developer-cert/assets/9934360/0a202e87-11b1-429c-9909-fbb67fddee32)
 
+# Aws Api gateway
+* Publish, Maintain and monitor and secure APIs
+* supports **RESTful api's** optimized for stateless, serverless workloads
+* **websocket API's **
+* supports multiple endpoints and targets
+* supports multiple versions like development, testing production etc
+* It supports throttling, so you manage traffice with traffic spikes etc 
