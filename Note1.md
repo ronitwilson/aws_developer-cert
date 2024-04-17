@@ -8,4 +8,5 @@
     * There is a cold HDD (cheap)
     * Hdd cannot be used for boot 
 * There is provisionsed IOPS if the IOPS is more than 16000 go for provisioned IOPS
-![Uploading image.png…]()
+![image](https://github.com/ronitwilson/aws_developer-cert/assets/9934360/0a202e87-11b1-429c-9909-fbb67fddee32)
+
