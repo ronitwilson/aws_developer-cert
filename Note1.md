@@ -17,3 +17,12 @@
 * supports multiple endpoints and targets
 * supports multiple versions like development, testing production etc
 * It supports throttling, so you manage traffice with traffic spikes etc 
+
+# Aws cli
+* The aws cli in the backend has a **pagination** of 1000
+* setting **pagination** helps to define the number of api calls it will make. though it may still show/display all the info in one page
+    * meaning the backend of the cli logic will try to make calls after each 1000 objs to get the next set
+* if the objs are too large can get **timeout**,  then we need to make pagination
+    * which will mean the cli will make multiple api calls to the backend
+* Example aws s3api list-objects --bucket my-bucket --page-seize 10
+    * other option is to use the --max-items
