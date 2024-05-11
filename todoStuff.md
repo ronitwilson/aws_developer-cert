@@ -6,4 +6,6 @@
 
 # Create Rds database and reach it from EC2
 
+
+# free code camp projects
 https://www.freecodecamp.org/news/learn-serverless-aws-by-building-7-projects/
