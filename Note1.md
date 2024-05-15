@@ -26,3 +26,8 @@
     * which will mean the cli will make multiple api calls to the backend
 * Example aws s3api list-objects --bucket my-bucket --page-seize 10
     * other option is to use the --max-items
+
+# Aws Parameter store
+* store confidential information
+* can store in plain text or encrypted
+* can be integrated with aws services like ec2 lambda codebuild codepipeline etcc
