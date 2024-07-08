@@ -31,3 +31,7 @@
 * store confidential information
 * can store in plain text or encrypted
 * can be integrated with aws services like ec2 lambda codebuild codepipeline etcc
+
+# Ec2 image builder
+### Ec2 builder workflow
+![image](https://github.com/ronitwilson/aws_developer-cert/assets/9934360/769d1d02-9255-47b6-924a-cf7d4967682f)
