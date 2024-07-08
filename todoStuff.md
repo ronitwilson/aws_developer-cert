@@ -1,4 +1,4 @@
-# Ebs tryout &#x2611
+# Ebs tryout [x]
 * create ebs volume
 * use it n setup snapshot
 * use encryption on snapshot
