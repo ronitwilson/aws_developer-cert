@@ -35,3 +35,13 @@
 # Ec2 image builder
 ### Ec2 builder workflow
 ![image](https://github.com/ronitwilson/aws_developer-cert/assets/9934360/769d1d02-9255-47b6-924a-cf7d4967682f)
+
+# Automating tasks with systems manager (SSM)
+* Management tool to visilily to control over your AWS infrastructure
+* Inventory of your EC2 instance
+* Automate common operational tasks like patching install application, running scripts
+
+### RUN commnad -> run commands accross whole fleet of ec2 instances
+![image](https://github.com/ronitwilson/aws_developer-cert/assets/9934360/ec2b7e01-b3ef-4c00-9b0d-822920079155)
+
+### Patch manager
