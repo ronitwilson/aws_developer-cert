@@ -15,4 +15,5 @@ https://www.freecodecamp.org/news/learn-serverless-aws-by-building-7-projects/
 ## Can we make a vpc public by addind a IG?
 
  # Try out
- https://www.youtube.com/watch?v=6SGeESPJSQo&list=PLbOk1Xv0BkieCM5hqTlp7fiP_7y-PKp4N&ab_channel=TechieShare
+https://www.youtube.com/watch?v=sCBTeMd0Jj4&ab_channel=TechwithAjit
+* It shows how to setup a 3 tier architecture
