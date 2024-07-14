@@ -44,4 +44,10 @@
 ### RUN commnad -> run commands accross whole fleet of ec2 instances
 ![image](https://github.com/ronitwilson/aws_developer-cert/assets/9934360/ec2b7e01-b3ef-4c00-9b0d-822920079155)
 
-### Patch manager
+# AWS Elasticache
+2 options 
+    * Redis
+    * Memcached
+### advantage and options
+![image](https://github.com/user-attachments/assets/0feff20f-ad06-4378-af10-996fcf963c5c)
+
