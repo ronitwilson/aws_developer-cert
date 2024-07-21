@@ -54,3 +54,5 @@
 ### advantage and options
 ![image](https://github.com/user-attachments/assets/0feff20f-ad06-4378-af10-996fcf963c5c)
 
+# AWS Athena
+* Run sql queries on s3
